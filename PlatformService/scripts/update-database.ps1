@@ -1,0 +1,1 @@
+dotnet ef database update  -p ..\PlaformService.Infrastructure\ -s ..\PlatformService.API\ 
